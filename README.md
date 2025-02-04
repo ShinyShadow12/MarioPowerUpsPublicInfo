@@ -89,7 +89,7 @@ _All stars require a Nether Star to be crafted, but don't worry, because they wo
      - To recharge the Rainbow Star when its cooldown ends, right click while holding Rainbow Essence on your offhand and the Rainbow Star on your main hand.
 
        
-   - Red Star (**WIP**)    [(ShowCase)](https://youtu.be/TxubfPyeWLw?si=j9JwjPzW7Zs6VIhL)) ![redstar](https://github.com/user-attachments/assets/fc4062a9-d1a5-40ef-ae1a-bec4994bf66c)
+   - Red Star (**WIP**)    [(ShowCase)](https://youtu.be/TxubfPyeWLw?si=j9JwjPzW7Zs6VIhL) ![redstar](https://github.com/user-attachments/assets/fc4062a9-d1a5-40ef-ae1a-bec4994bf66c)
 
 
      Details:
