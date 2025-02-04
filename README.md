@@ -4,7 +4,7 @@ A minecraft plugin that adds various Mario PowerUps.
 All I played most of my childhood was Mario games and till this day I still enjoy playing some Mario games emulated on the PC.
 I like to use mario texture packs since I like to bring the world of Mario games into MC so I thought why not make a plugin that will bring something that is more than just the visual
 aspect from Mario games, something than you can interact with and feel like it is brought directly from one world to the other, like per example, various PowerUps so I can go around with my 
-Fire Flower throwing fire balls everywhere, jumping around by using the Metal Coil, or eat a Rock Mushroom and dash against enemies knocking them off or destroy walls...
+Fire Flower throwing fire balls everywhere, flying around with the Red Star, or eat a Rock Mushroom and dash against enemies knocking them off or destroy walls...
 
 
 # List of PowerUps:
