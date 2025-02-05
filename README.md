@@ -51,13 +51,19 @@ General details:
 _Mushrooms are consumed after one use_
 
 - Spring Mushroom (**NS**)
+- Super Mushroom (**NS**)
+
+  Details:
+
+  - When consumed, restores your health to max.
+    
 - 1-UP Mushroom (**NS**)![1upmushroom](https://github.com/user-attachments/assets/e261477f-f49c-4179-94ec-b9c321a6c57a)
 
 
   
   Details:
 
-  - When consumed, grants an additional health bar.
+  - When consumed, grants an additional health bar. It can't stack.
   - With the addition of this Power Up there is also a new custom item, Medicinal Herbs Mixture![medicinalherbsmix](https://github.com/user-attachments/assets/bee722b1-e39e-4e12-9788-c09c0466785a)
     To craft it, drop grass, pumpkin seeds and wheat seeds inside a cauldron with water and right click the cauldron. After that, right click the cauldron with an empty bowl.
     
